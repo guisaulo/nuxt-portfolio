@@ -18,7 +18,7 @@
               Analista Desenvolvedor .NET
               <ul>
                 <li>Reply</li>
-                <li>out. de 2020 - o momento</li>
+                <li>out. de 2020 - até o momento</li>
               </ul>
             </v-card-text>
 
@@ -33,7 +33,7 @@
             <v-card-text>
               Desenvolvedor .NET
               <ul>
-                <li>Reply</li>
+                <li>Bernoulli Educação</li>
                 <li>set. de 2018 - jun. de 2019</li>
               </ul>
             </v-card-text>
