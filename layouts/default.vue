@@ -66,6 +66,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Guilherme',
           to: '/portfolio-guilherme'
+        },                
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'JoaoBrasil',
+          to: '/portfolio-joao'
         }                
       ],
       miniVariant: false,
